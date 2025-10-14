@@ -41,7 +41,7 @@
         "inflation": "^2.0.0",
         "jose": "^4.13.1",
         "libphonenumber-js": "^1.9.44",
-        "nodemailer": "^6.7.2",
+        "nodemailer": "^7.0.7",
         "pkce-challenge": "^3.0.0",
         "psl": "1.8.0",
         "supertokens-js-override": "^0.0.4",
